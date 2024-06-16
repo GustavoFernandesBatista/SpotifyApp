@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		91110C8E2C1E5B24006BDE66 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91110C8D2C1E5B24006BDE66 /* Extension.swift */; };
 		91710A442C1E43DC00C69972 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91710A432C1E43DC00C69972 /* AppDelegate.swift */; };
 		91710A462C1E43DC00C69972 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91710A452C1E43DC00C69972 /* SceneDelegate.swift */; };
 		91710A482C1E43DC00C69972 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91710A472C1E43DC00C69972 /* HomeViewController.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		91110C8D2C1E5B24006BDE66 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		91710A402C1E43DC00C69972 /* Spotify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spotify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		91710A432C1E43DC00C69972 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		91710A452C1E43DC00C69972 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				91710A432C1E43DC00C69972 /* AppDelegate.swift */,
 				91710A4C2C1E43DD00C69972 /* Assets.xcassets */,
 				91710A452C1E43DC00C69972 /* SceneDelegate.swift */,
+				91110C8D2C1E5B24006BDE66 /* Extension.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 				91710A702C1E49CD00C69972 /* AuthViewController.swift in Sources */,
 				91710A7F2C1E4B0F00C69972 /* HapticsManager.swift in Sources */,
 				91710A8B2C1E4BC200C69972 /* TabBarViewController.swift in Sources */,
+				91110C8E2C1E5B24006BDE66 /* Extension.swift in Sources */,
 				91710A832C1E4B2900C69972 /* AudioTrack.swift in Sources */,
 				91710A482C1E43DC00C69972 /* HomeViewController.swift in Sources */,
 				91710A682C1E499D00C69972 /* PlaylistViewController.swift in Sources */,
